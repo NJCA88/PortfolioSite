@@ -33,6 +33,9 @@ body {
 	line-height: 1;
 	/* background-image: "pic01.jpg"; */
 }
+.icons a{
+	font-weight:800;
+}
 
 ol, ul {
 	list-style: none;
