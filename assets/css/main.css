@@ -692,7 +692,7 @@ input, select, textarea {
 			.image.main img {
 				/* width: 50%; */
 				/* height: 50%; */
-				max-height: 200px;
+				height: 200px;
 				padding: 15px;
 				overflow: hidden;
 
@@ -705,7 +705,7 @@ input, select, textarea {
 				width: 50%;
 				height: 50%;
 				max-height: 200px;
-				padding: 15px;
+				/* padding: 15px; */
 				box-shadow: none;
 
 			}
